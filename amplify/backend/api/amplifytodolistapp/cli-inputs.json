@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifytodolistapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/ssuya/Documents/DEV/ssucode.github.com/amplify-todolist-app/amplify/backend/api/amplifytodolistapp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
